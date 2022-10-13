@@ -1,5 +1,7 @@
 #include <iostream>
 
 int main() {
-  std::cout << "Hello World!\n";
+  // TODO: Follow instructions in README.md
+  
+  return 0;
 }
